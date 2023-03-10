@@ -12,5 +12,10 @@
 </h1>
 </div>
 
+### About Me :
+I am a .NET Backend Developer from Germany (Kaiserlautern).
+- I’m working as a Software Developer on a Microservice based project.
+- I'm interestet in C#, .NET, ASP.NET Core, EF Core, DDD and modern architectures
+- In my free time, I try to read as much as possible technical articles and books related to the above topics.
+- :mailbox:How to reach me: patrickmathias1991@googlemail.com
 ---
-TBD
