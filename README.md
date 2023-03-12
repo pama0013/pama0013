@@ -1,6 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="100"/>
   <div id="badges">
+    <a href=https://www.linkedin.com/in/patrick-mathias-696957269/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
     <a href="https://www.xing.com/profile/Patrick_Mathias3">
       <img src="https://img.shields.io/badge/Xing-green?style=for-the-badge&logo=xing&logoColor=white?" alt="Xing Badge"/>
     </a>
@@ -12,11 +15,13 @@
 </h1>
 </div>
 
+
+
 ### About Me :
 I am a .NET Backend Developer from Germany (Kaiserlautern).
 - I’m working as a Software Developer on a Microservice based project.
-- I'm interestet in C#, .NET, ASP.NET Core, EF Core, DDD and modern architectures
-- In my free time, I try to read as much as possible technical articles and books related to the above topics.
+- I'm interested in C#, .NET, ASP.NET Core, EF Core, DDD and modern architectures
+- In my spare time I read as many technical articles and books related to the topics above as possible.
 - :mailbox:How to reach me: patrickmathias1991@googlemail.com
 ---
 ### :hammer_and_wrench: Languages and Tools :
